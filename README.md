@@ -1,5 +1,3 @@
- [![Facebook Badge](https://img.shields.io/badge/-@____Rawda____patil____-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100004711200725&sk=about)](https://www.facebook.com/profile.php?id=100004711200725&sk=about) 
- 
 
 ### Hey 👋🏽, I'm Rawda! 
 
@@ -19,7 +17,7 @@ Hi, I'm Rawda Abdelkhalek , a Software Robotics Engineer
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
-![Sanket's github stats](https://github-readme-stats.vercel.app/api?username=sanket9006&show_icons=true&theme=radical)
+![Rawda's github stats](https://github-readme-stats.vercel.app/api?username=sanket9006&show_icons=true&theme=radical)
 
 ![Dino](https://raw.githubusercontent.com/sanket9006/sanket9006/master/dino.gif)
 
