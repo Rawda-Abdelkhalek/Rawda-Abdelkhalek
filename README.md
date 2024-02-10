@@ -1,10 +1,5 @@
-
-### Hey 👋🏽, I'm Rawda! 
-
-
-Hi, I'm Rawda Abdelkhalek , a Software Robotics Engineer 
-
-  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Protest+Riot&size=24&pause=1001&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=435&height=90&lines=++++++++++++++Hey+%F0%9F%91%8B%F0%9F%8F%BD%2C+I'm+Rawda!+++;++++++Software+Robotics+Engineer)](https://git.io/typing-svg)
+ 
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently partcipating in as much Hackathons as I can
